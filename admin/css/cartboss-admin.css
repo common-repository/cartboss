@@ -1,0 +1,64 @@
+.cartboss-wrapper {
+    margin-top: 2rem;
+}
+
+.cartboss-wrapper h1 {
+    font-size: 2rem;
+    font-weight: 500;
+    margin: 0;
+}
+
+.cartboss-wrapper .text-right {
+    text-align: right;
+}
+
+.cartboss-wrapper h2 {
+    color: #111;
+    font-weight: 600;
+    margin: 0 0 .45rem 0;
+    font-size: 17px;
+}
+
+.cartboss-wrapper p.description {
+    /*margin-left: 24px;*/
+    font-size: .9rem;
+}
+
+.cartboss-wrapper .cartboss-button {
+    background: #3232CD;
+    border: none;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+    vertical-align: top;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 2.15384615;
+    min-height: 30px;
+    cursor: pointer;
+    border-radius: 30px;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
+.cartboss-wrapper .cartboss-button.cartboss-button--prominent {
+    background: #e5105a;
+}
+
+.cartboss-wrapper label {
+}
+
+.cartboss-wrapper input {
+    padding: 5px 1rem;
+}
+
+img.cartboss-image {
+    max-width: 300px;
+}
+
+.cartboss-wrapper .cartboss-full-width {
+    width: 100%;
+}
+
+.cartboss-wrapper input.cartboss-error {
+    border: 2px solid red;
+}

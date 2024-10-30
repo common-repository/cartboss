@@ -1,0 +1,17 @@
+{
+  "require": {
+    "php": ">=7.2",
+    "ext-openssl": "*",
+    "ext-json": "*",
+    "ext-mbstring": "*",
+    "league/uri": "6.4.0",
+    "league/uri-components": "2.2.1",
+    "symfony/serializer": "^5.4",
+    "symfony/property-access": "^5.4",
+    "symfony/polyfill-mbstring": "1.20.0",
+    "symfony/polyfill-ctype": "1.20.0",
+    "symfony/polyfill-intl-normalizer": "1.20.0",
+    "symfony/polyfill-intl-grapheme": "1.20.0",
+    "jaybizzle/crawler-detect": "^1.2"
+  }
+}

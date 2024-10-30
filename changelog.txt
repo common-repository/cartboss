@@ -1,0 +1,164 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## [4.1.0] - 26-08-2024
+ - HPOS compatible
+
+## [4.0.6] - 29-02-2024
+ - improved session handling
+
+
+## [4.0.5] - 27-02-2024
+ - js fixes
+ 
+## [4.0.4] - 07-12-2023
+ - minor fixes
+ 
+## [4.0.2] - 13-06-2023
+ - backend event sending fixed
+
+## [4.0.1] - 13-06-2023
+ - changed the way we are sending events
+
+## [3.7.0] - 04-05-2023
+ - session fix
+
+## [3.6.7] - 04-05-2023
+ - cookies fix
+
+## [3.6.5] - 02-03-2023
+ - meta data fix
+
+## [3.6.1] - 04-01-2023
+ - rewritten session detection
+ - better duplicate order detection
+ - speed improvements
+
+## [3.5.5] - 19-11-2022
+ - limit discount for 1 use
+
+### Changed
+- speedy improvements
+
+## [3.5.4] - 19-10-2022
+
+### Changed
+- speedy improvements
+
+## [3.5.1] - 11-07-2022
+
+### Changed
+- php 7.2+ required
+
+## [3.5.0] - 22-06-2022
+
+### Changed
+- improved speed and stability
+- url signature check added for better security
+
+## [3.4.9] - 16-06-2022
+
+### Changed
+- improved speed and stability
+- duplicate order detection added
+
+## [3.4.7] - 21-04-2022
+
+### Changed
+- improved speed and stability
+- new version checker added
+- fix for backend approved orders purchase reporting
+- new admin icon :)
+
+## [3.4.2] - 7-01-2022
+
+### Changed
+- checkoutWC workarounds
+
+
+## [3.4.1] - 30-12-2021
+
+### Changed
+- exclude admin/woo manager actions from being processed
+
+## [3.3.7] - 3-12-2021
+
+### Changed
+- improved phone capturing code
+
+## [3.3.6] - 2-12-2021
+
+### Changed
+- various performance improvements
+
+## [3.3.5] - 25-11-2021
+
+### Changed
+- fixed cron handled orders
+- better phone capturing
+- speed improvements :)
+
+
+## [3.3.3] - 08-11-2021
+
+### Changed
+- fix order status check
+- don't max_prioritize our hooks
+- postcode field capturing fixed
+
+
+## [3.3.2] - 01-11-2021
+
+### Changed
+- checkout JS improvements to work with WC blocks checkout
+
+## [3.3.1] - 24-10-2021
+
+### Changed
+- replaced guzzle library with internal solution
+
+## [3.2.8] - 19-10-2021
+
+### Changed
+- ping api call fix
+
+## [3.2.7] - 13-10-2021
+
+### Changed
+- custom discount support added
+- discount creation optimizations
+- removed deprecated function calls
+
+## [3.2.6] - 22-09-2021
+
+### Changed
+- WPML support added
+
+## [3.2.4] - 21-09-2021
+
+### Changed
+- fixed cron scheduling issues
+
+## [3.1.8] - 07-09-2021
+
+### Changed
+- complete plugin rewrite
+- support for UTM
+- support for win-back sms messages
+- improved woocommerce hook support
+
+
+## [2.0.8] - 09-07-2021
+
+### Changed
+- cartboss_cb_restore_contact rewrite
+
+## [2.0.7] - 08-07-2021
+
+### Changed
+- Added support for Sentry
+
+## [2.0.6] - 07-07-2021
+
+### Changed
+- Plugin takes home url instead of site url for base address

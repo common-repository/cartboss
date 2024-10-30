@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){for(var e=0;e<cb_helper_data.length;e++)try{var o=new URL(window.location.href).searchParams.get(cb_helper_data[e].query);o&&(document.cookie=cb_helper_data[e].cookie+"="+o+";secure=true;sameSite=None;path=/")}catch(e){}console.log("🔥","SMS Powered by ->","www.cartboss.io")});
